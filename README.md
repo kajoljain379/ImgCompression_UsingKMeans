@@ -15,5 +15,5 @@ javac KMeans.java
 java KMeans <input-image> <k> <output-image>
 ```
 Where input-image is the name of the desired image in the same directory and k is the number of cluster centers and output-image is the name of the desired image..You can specify path from where you want to take image and where to save it...
-### For example, to execute with Penguins.jpg and k = 2:
+
 
