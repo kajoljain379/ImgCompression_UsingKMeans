@@ -1,0 +1,3 @@
+# ImgCompression_UsingKMeans
+In this project one can compress image using Kmeans java file....This programme is written to keep in mind e-commerce websites....So, images likes of clothes,gadgets can we compressed effectively....
+So,One can run this java programme easily
